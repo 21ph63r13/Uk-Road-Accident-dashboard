@@ -5,6 +5,7 @@ As a beginner in data analytics, the objective of this assignment is to analyze 
 
 ![Capture](https://github.com/user-attachments/assets/f6278c31-f3b1-47d0-b9d0-36234bfba197)
 
+
 In this Dashboard we can see:
 
 💠 Total Casualties, average speed limit.
